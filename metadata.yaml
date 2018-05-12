@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25063'
     url: http://www.gutenberg.org/2009/agents/25063
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22050#Life-and-Conduct
 gutenberg_issued: '2007-07-11'
 gutenberg_type: Text
 identifiers:
